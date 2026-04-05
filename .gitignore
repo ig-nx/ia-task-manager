@@ -1,0 +1,40 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+Pipfile.lock
+poetry.lock
+*.venv
+
+# Virtualenvs/config
+todoapp-LC-backend/.venv/
+todoapp-LC-backend/.mypy_cache/
+todoapp-LC-backend/__pycache__/
+
+# Environment files
+.env
+todoapp-LC-backend/.env
+todoapp-LC-frontend/.env
+
+# Node.js artifacts
+todoapp-LC-frontend/node_modules/
+todoapp-LC-frontend/.next/
+npm-debug.log*
+npx-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+build/
+dist/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
