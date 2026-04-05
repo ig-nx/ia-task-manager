@@ -1,4 +1,4 @@
-# Todo App con IA del Curso Julio Colomer
+# Todo App con IA 
 
 Esta carpeta aloja la version del proyecto del curso "LLM e IA" del instructor Julio Colomer. Es un ejemplo concreto que integra una interfaz de tareas simples con llamadas a APIs, un backend FastAPI con Postgres y una cadena de LangChain para pedir a GPT-4o-mini que escriba poemas cortos. La base inicial fue el repositorio https://github.com/AI-LLM-Bootcamp/1024-langchain-plus-todo-app y aqui se aplicaron mejoras propias en el frontend, el modelado y los flujos de API.
 
